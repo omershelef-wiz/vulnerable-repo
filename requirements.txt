@@ -1,0 +1,10 @@
+# Example requirements.txt for teaching dependency scanning concepts.
+# These versions are simply *old* and for demonstration only.
+
+Flask==0.12
+requests==2.10.0
+Django==1.11
+numpy==1.12.0
+pillow==3.0.0
+pyyaml==4.1
+sqlalchemy==1.0.8
